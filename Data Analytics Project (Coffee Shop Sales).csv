@@ -1,0 +1,66 @@
+Row Labels,Sum of Revenue,
+Jun,"$55,083",
+May,"$52,429",
+Apr,"$39,478",
+Mar,"$32,835",
+Jan,"$27,314",
+Feb,"$25,105",
+Grand Total,232244,
+,,
+Row Labels,Count of Transaction_id,
+Thu,7427,
+Mon,7403,
+Wed,7370,
+Fri,7352,
+Sun,7073,
+Tue,7032,
+Sat,6942,
+Grand Total,50599,
+,,
+Row Labels,Count of Transaction_id,
+10,5291,
+9,5083,
+8,4966,
+7,4181,
+16,3599,
+19,3565,
+18,3463,
+13,3456,
+12,3438,
+15,3423,
+11,3413,
+17,3402,
+14,3319,
+Grand Total,50599,
+,,
+,,
+,,
+Row Labels,Count of Transaction_id,
+Coffee,20025,
+Tea,16260,
+Bakery,7289,
+Drinking Chocolate,4300,
+Flavours,1490,
+Coffee beans,502,
+Loose Tea,344,
+Branded,279,
+Packaged Chocolate,110,
+Grand Total,50599,
+,,
+Row Labels,Count of Transaction_qty,Sum of Revenue
+Brewed Chai tea,6293,"$27,428"
+Gourmet brewed coffee,6053,"$23,823"
+Barista Espresso,4930,"$27,935"
+Hot chocolate,4300,"$26,335"
+Brewed herbal tea,4008,"$16,282"
+Brewed Black tea,3979,"$16,141"
+Scone,3205,"$11,630"
+Drip coffee,3118,"$11,417"
+Premium brewed coffee,3008,"$13,946"
+Organic brewed coffee,2916,"$12,623"
+Pastry,2203,"$8,294"
+Brewed Green tea,1980,"$7,989"
+Biscotti,1881,"$6,677"
+Regular syrup,1111,"$1,311"
+Sugar free syrup,379,$454
+Grand Total,49364,212284
